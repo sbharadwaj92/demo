@@ -15,7 +15,7 @@ export class FarmComponentComponent implements OnInit {
     console.log('abc');
     console.log(123);
     console.log("qwe");
-    console.log("mno");
+    console.log("xyz");
   }
 
 }
