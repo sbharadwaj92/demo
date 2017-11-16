@@ -10,6 +10,9 @@ export class FarmComponentComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+
+    console.log('hello');
+    console.log('abc');
   }
 
 }
